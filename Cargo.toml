@@ -1,0 +1,15 @@
+[package]
+name = "sol"
+version = "0.1.0"
+authors = ["Carl Malmz <callem217@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+roxmltree = "0.6.0"
+zip = "0.5.2"
+structopt = "0.2.15"
+tar = "0.4.23"
+xz2 = "0.1.6"
+nix = "0.13.0"
+humansize = "1.1.0"
+chrono = "0.4.6"
